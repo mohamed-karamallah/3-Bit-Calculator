@@ -76,6 +76,3 @@ The calculator operates on 3-bit inputs and provides the following operations:
 
 Each operation is implemented using basic digital logic components and can be tested independently using the provided test benches.
 
-## License
-
-This project is open source and available for educational and research purposes. 
