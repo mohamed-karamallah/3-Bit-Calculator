@@ -1,0 +1,15 @@
+# Verilog simulation files
+*.vcd
+*.vvp
+*.v
+!*.v
+*.log
+
+# IDE files
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db 
