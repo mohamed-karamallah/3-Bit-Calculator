@@ -32,17 +32,6 @@ The project consists of several Verilog modules:
 - `tb_multiplication.v` - Multiplication test bench
 - `remaindertb.v` - Remainder calculation test bench
 
-## Usage
-
-### Simulation
-To simulate the design, you can use any Verilog simulator (e.g., Icarus Verilog, ModelSim). Here's an example using Icarus Verilog:
-
-```bash
-# Compile the ALU test bench
-iverilog -o alu_sim alu.v alu_tb.v
-
-# Run the simulation
-vvp alu_sim
 ```
 
 ### Testing Different Operations
